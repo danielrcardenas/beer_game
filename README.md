@@ -1,1 +1,1 @@
-"# beer_game script for suplichain analysis"
+# beer_game script for suplichain analysis
